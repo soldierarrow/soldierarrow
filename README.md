@@ -1,18 +1,15 @@
-![programming-languages development](https://media1.giphy.com/media/v1.Y2lkPTdiYzJhNDkwaHE3Z2l6NXZpcGhxYTc0bm51eWtibWdpN2Y0ODF3ODR2NjdjdTIzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hDQtmojdVeAFidcpfn/giphy.gif)
-
-# 介绍
-大家好，我是soldierarrow，一名热爱编程的软件开发者，专注于前端技术和开源项目。
+# 自我介绍
+你好，我是 **soldierarrow**，一名热爱编程和技术的开发者。
 
 # 技能
-- HTML, CSS, JavaScript
-- React, Vue
-- Node.js, Express
-- Git, GitHub
+- 编程语言：Python, JavaScript, Java
+- Web开发：HTML, CSS, React
+- 数据库：MySQL, MongoDB
 
 # 项目
-- [项目1](https://github.com/soldierarrow/project1): 前端应用程序
-- [项目2](https://github.com/soldierarrow/project2): 开源工具
+- [项目A](https://github.com/soldierarrow/project-a): 描述项目A的功能和技术栈。
+- [项目B](https://github.com/soldierarrow/project-b): 描述项目B的功能和技术栈。
 
 # 联系方式
-- 邮箱: soldierarrow@example.com
+- 电子邮件: soldierarrow@example.com
 - Twitter: [@soldierarrow](https://twitter.com/soldierarrow)
