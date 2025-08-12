@@ -1,16 +1,18 @@
-## Hi there 👋
+![programming-languages development](https://media1.giphy.com/media/v1.Y2lkPTdiYzJhNDkwaHE3Z2l6NXZpcGhxYTc0bm51eWtibWdpN2Y0ODF3ODR2NjdjdTIzcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hDQtmojdVeAFidcpfn/giphy.gif)
 
-<!--
-**soldierarrow/soldierarrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 介绍
+大家好，我是soldierarrow，一名热爱编程的软件开发者，专注于前端技术和开源项目。
 
-Here are some ideas to get you started:
+# 技能
+- HTML, CSS, JavaScript
+- React, Vue
+- Node.js, Express
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 项目
+- [项目1](https://github.com/soldierarrow/project1): 前端应用程序
+- [项目2](https://github.com/soldierarrow/project2): 开源工具
+
+# 联系方式
+- 邮箱: soldierarrow@example.com
+- Twitter: [@soldierarrow](https://twitter.com/soldierarrow)
